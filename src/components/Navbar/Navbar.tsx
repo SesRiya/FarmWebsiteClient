@@ -53,7 +53,7 @@ const Navbar = () => {
           <NavbarContainer>
             <NavLogo to="/">
               <NavIcon />
-              McDonald's Farm
+              Steven's Farm
             </NavLogo>
             <MenuIcon onClick={handleClick}>
               {click ? <BiX /> : <BiMenu />}
